@@ -5,7 +5,8 @@
 This repository includes resources to reproduce training and evaluation procedure for the paper
 **Graph-Linguistic Fusion: Using Language Models for Wikidata Vandalism Detection** (accepted to ACL'25 Industry track) from data collection to model training and evaluation. 
 
-- The full paper already available: TBD
+- The full paper already available:
+[![DOI:10.18653/v1/2025.acl-industry.21](https://zenodo.org/badge/DOI/10.18653/v1/2025.acl-industry.21.svg)](https://doi.org/10.18653/v1/2025.acl-industry.21)
 - The model inference logic is to be implemented in 
 [![Knowledge Integrity repo](https://img.shields.io/badge/GitLab-repo-orange)](https://gitlab.wikimedia.org/repos/research/knowledge_integrity)
 - Prepared dataset and artifacts: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15492678.svg)](https://doi.org/10.5281/zenodo.15492678)

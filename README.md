@@ -28,5 +28,23 @@ This repository includes resources to reproduce training and evaluation procedur
 ## Citation: 
 **Graph-Linguistic Fusion: Using Language Models for Wikidata Vandalism Detection**
 ```
-TBD
+@inproceedings{trokhymovych-etal-2025-graph,
+    title = "Graph-Linguistic Fusion: Using Language Models for {W}ikidata Vandalism Detection",
+    author = "Trokhymovych, Mykola  and
+      Pintscher, Lydia  and
+      Baeza-Yates, Ricardo  and
+      S{\'a}ez Trumper, Diego",
+    editor = "Rehm, Georg  and
+      Li, Yunyao",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 6: Industry Track)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.acl-industry.21/",
+    doi = "10.18653/v1/2025.acl-industry.21",
+    pages = "284--294",
+    ISBN = "979-8-89176-288-6",
+    abstract = "We introduce a next-generation vandalism detection system for Wikidata, one of the largest open-source structured knowledge bases on the Web. Wikidata is highly complex: its items incorporate an ever-expanding universe of factual triples and multilingual texts. While edits can alter both structured and textual content, our approach converts all edits into a single space using a method we call Graph2Text. This allows for evaluating all content changes for potential vandalism using a single multilingual language model. This unified approach improves coverage and simplifies maintenance. Experiments demonstrate that our solution outperforms the current production system. Additionally, we are releasing the code under an open license along with a large dataset of various human-generated knowledge alterations, enabling further research."
+}
 ```
